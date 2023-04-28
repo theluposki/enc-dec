@@ -1,0 +1,14 @@
+{
+  "name": "enc-dec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start":"node src/",
+    "dev":"node --watch src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
